@@ -1,5 +1,7 @@
 # FrameForge — AI Video SaaS Platform
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?logo=githubactions&logoColor=white)
+
 > A multi-user SaaS that generates AI short-form videos/images and auto-posts them to Instagram, TikTok, and YouTube — orchestrated through a Telegram bot.
 
 > **Note:** Public showcase of a private project. The source is closed; this repo documents the architecture and engineering.
